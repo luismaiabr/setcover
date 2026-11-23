@@ -1,0 +1,6957 @@
+{
+  "experiment": {
+    "min_u": 10,
+    "max_u": 1000,
+    "num_subsets": 10,
+    "subset_prob": 0.35,
+    "seed": 42,
+    "total_instances": 991
+  },
+  "summary": {
+    "linear_fit_slope": 17.0543,
+    "linear_fit_intercept": -166.7178,
+    "r_squared": 0.999084,
+    "min_element_ops": 146,
+    "max_element_ops": 17096,
+    "avg_cover_size": 8.3017
+  },
+  "results": [
+    {
+      "universe_size": 10,
+      "num_subsets": 10,
+      "cover_size": 3,
+      "subset_evals": 30,
+      "element_ops": 146
+    },
+    {
+      "universe_size": 11,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 172
+    },
+    {
+      "universe_size": 12,
+      "num_subsets": 10,
+      "cover_size": 3,
+      "subset_evals": 30,
+      "element_ops": 162
+    },
+    {
+      "universe_size": 13,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 200
+    },
+    {
+      "universe_size": 14,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 212
+    },
+    {
+      "universe_size": 15,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 224
+    },
+    {
+      "universe_size": 16,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 242
+    },
+    {
+      "universe_size": 17,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 241
+    },
+    {
+      "universe_size": 18,
+      "num_subsets": 10,
+      "cover_size": 3,
+      "subset_evals": 30,
+      "element_ops": 242
+    },
+    {
+      "universe_size": 19,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 294
+    },
+    {
+      "universe_size": 20,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 310
+    },
+    {
+      "universe_size": 21,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 304
+    },
+    {
+      "universe_size": 22,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 320
+    },
+    {
+      "universe_size": 23,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 332
+    },
+    {
+      "universe_size": 24,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 336
+    },
+    {
+      "universe_size": 25,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 372
+    },
+    {
+      "universe_size": 26,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 402
+    },
+    {
+      "universe_size": 27,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 367
+    },
+    {
+      "universe_size": 28,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 382
+    },
+    {
+      "universe_size": 29,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 452
+    },
+    {
+      "universe_size": 30,
+      "num_subsets": 10,
+      "cover_size": 3,
+      "subset_evals": 30,
+      "element_ops": 380
+    },
+    {
+      "universe_size": 31,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 420
+    },
+    {
+      "universe_size": 32,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 460
+    },
+    {
+      "universe_size": 33,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 476
+    },
+    {
+      "universe_size": 34,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 558
+    },
+    {
+      "universe_size": 35,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 554
+    },
+    {
+      "universe_size": 36,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 528
+    },
+    {
+      "universe_size": 37,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 524
+    },
+    {
+      "universe_size": 38,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 572
+    },
+    {
+      "universe_size": 39,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 576
+    },
+    {
+      "universe_size": 40,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 548
+    },
+    {
+      "universe_size": 41,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 620
+    },
+    {
+      "universe_size": 42,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 632
+    },
+    {
+      "universe_size": 43,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 630
+    },
+    {
+      "universe_size": 44,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 676
+    },
+    {
+      "universe_size": 45,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 688
+    },
+    {
+      "universe_size": 46,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 710
+    },
+    {
+      "universe_size": 47,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 756
+    },
+    {
+      "universe_size": 48,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 726
+    },
+    {
+      "universe_size": 49,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 738
+    },
+    {
+      "universe_size": 50,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 753
+    },
+    {
+      "universe_size": 51,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 750
+    },
+    {
+      "universe_size": 52,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 910
+    },
+    {
+      "universe_size": 53,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 762
+    },
+    {
+      "universe_size": 54,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 828
+    },
+    {
+      "universe_size": 55,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 786
+    },
+    {
+      "universe_size": 56,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 1040
+    },
+    {
+      "universe_size": 57,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 976
+    },
+    {
+      "universe_size": 58,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 790
+    },
+    {
+      "universe_size": 59,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 964
+    },
+    {
+      "universe_size": 60,
+      "num_subsets": 10,
+      "cover_size": 4,
+      "subset_evals": 40,
+      "element_ops": 832
+    },
+    {
+      "universe_size": 61,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 966
+    },
+    {
+      "universe_size": 62,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 902
+    },
+    {
+      "universe_size": 63,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 942
+    },
+    {
+      "universe_size": 64,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1030
+    },
+    {
+      "universe_size": 65,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 1128
+    },
+    {
+      "universe_size": 66,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1032
+    },
+    {
+      "universe_size": 67,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 996
+    },
+    {
+      "universe_size": 68,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1068
+    },
+    {
+      "universe_size": 69,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 990
+    },
+    {
+      "universe_size": 70,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1062
+    },
+    {
+      "universe_size": 71,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1244
+    },
+    {
+      "universe_size": 72,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1176
+    },
+    {
+      "universe_size": 73,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1159
+    },
+    {
+      "universe_size": 74,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1106
+    },
+    {
+      "universe_size": 75,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1212
+    },
+    {
+      "universe_size": 76,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1196
+    },
+    {
+      "universe_size": 77,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1222
+    },
+    {
+      "universe_size": 78,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1188
+    },
+    {
+      "universe_size": 79,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1266
+    },
+    {
+      "universe_size": 80,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1232
+    },
+    {
+      "universe_size": 81,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1294
+    },
+    {
+      "universe_size": 82,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1260
+    },
+    {
+      "universe_size": 83,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1313
+    },
+    {
+      "universe_size": 84,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1252
+    },
+    {
+      "universe_size": 85,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1302
+    },
+    {
+      "universe_size": 86,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1286
+    },
+    {
+      "universe_size": 87,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1372
+    },
+    {
+      "universe_size": 88,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1496
+    },
+    {
+      "universe_size": 89,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1448
+    },
+    {
+      "universe_size": 90,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1420
+    },
+    {
+      "universe_size": 91,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1466
+    },
+    {
+      "universe_size": 92,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1384
+    },
+    {
+      "universe_size": 93,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1486
+    },
+    {
+      "universe_size": 94,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1434
+    },
+    {
+      "universe_size": 95,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1464
+    },
+    {
+      "universe_size": 96,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1552
+    },
+    {
+      "universe_size": 97,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1546
+    },
+    {
+      "universe_size": 98,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1490
+    },
+    {
+      "universe_size": 99,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1614
+    },
+    {
+      "universe_size": 100,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1566
+    },
+    {
+      "universe_size": 101,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1540
+    },
+    {
+      "universe_size": 102,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1536
+    },
+    {
+      "universe_size": 103,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1534
+    },
+    {
+      "universe_size": 104,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1556
+    },
+    {
+      "universe_size": 105,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1676
+    },
+    {
+      "universe_size": 106,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1644
+    },
+    {
+      "universe_size": 107,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1742
+    },
+    {
+      "universe_size": 108,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1670
+    },
+    {
+      "universe_size": 109,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1728
+    },
+    {
+      "universe_size": 110,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1728
+    },
+    {
+      "universe_size": 111,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1694
+    },
+    {
+      "universe_size": 112,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1790
+    },
+    {
+      "universe_size": 113,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1740
+    },
+    {
+      "universe_size": 114,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1816
+    },
+    {
+      "universe_size": 115,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1926
+    },
+    {
+      "universe_size": 116,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 1938
+    },
+    {
+      "universe_size": 117,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1902
+    },
+    {
+      "universe_size": 118,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1876
+    },
+    {
+      "universe_size": 119,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1882
+    },
+    {
+      "universe_size": 120,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1846
+    },
+    {
+      "universe_size": 121,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 1836
+    },
+    {
+      "universe_size": 122,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1972
+    },
+    {
+      "universe_size": 123,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1874
+    },
+    {
+      "universe_size": 124,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2048
+    },
+    {
+      "universe_size": 125,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2002
+    },
+    {
+      "universe_size": 126,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2002
+    },
+    {
+      "universe_size": 127,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2038
+    },
+    {
+      "universe_size": 128,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1972
+    },
+    {
+      "universe_size": 129,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 1978
+    },
+    {
+      "universe_size": 130,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 1966
+    },
+    {
+      "universe_size": 131,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2094
+    },
+    {
+      "universe_size": 132,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2070
+    },
+    {
+      "universe_size": 133,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2108
+    },
+    {
+      "universe_size": 134,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2228
+    },
+    {
+      "universe_size": 135,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2158
+    },
+    {
+      "universe_size": 136,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2242
+    },
+    {
+      "universe_size": 137,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2278
+    },
+    {
+      "universe_size": 138,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2238
+    },
+    {
+      "universe_size": 139,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2152
+    },
+    {
+      "universe_size": 140,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2360
+    },
+    {
+      "universe_size": 141,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2138
+    },
+    {
+      "universe_size": 142,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2176
+    },
+    {
+      "universe_size": 143,
+      "num_subsets": 10,
+      "cover_size": 5,
+      "subset_evals": 50,
+      "element_ops": 2084
+    },
+    {
+      "universe_size": 144,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2114
+    },
+    {
+      "universe_size": 145,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2358
+    },
+    {
+      "universe_size": 146,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2346
+    },
+    {
+      "universe_size": 147,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2494
+    },
+    {
+      "universe_size": 148,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2422
+    },
+    {
+      "universe_size": 149,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2426
+    },
+    {
+      "universe_size": 150,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2532
+    },
+    {
+      "universe_size": 151,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2366
+    },
+    {
+      "universe_size": 152,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2536
+    },
+    {
+      "universe_size": 153,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2506
+    },
+    {
+      "universe_size": 154,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2438
+    },
+    {
+      "universe_size": 155,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2428
+    },
+    {
+      "universe_size": 156,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2376
+    },
+    {
+      "universe_size": 157,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2560
+    },
+    {
+      "universe_size": 158,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2600
+    },
+    {
+      "universe_size": 159,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2596
+    },
+    {
+      "universe_size": 160,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2580
+    },
+    {
+      "universe_size": 161,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2652
+    },
+    {
+      "universe_size": 162,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2614
+    },
+    {
+      "universe_size": 163,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2514
+    },
+    {
+      "universe_size": 164,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2612
+    },
+    {
+      "universe_size": 165,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2568
+    },
+    {
+      "universe_size": 166,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2662
+    },
+    {
+      "universe_size": 167,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2708
+    },
+    {
+      "universe_size": 168,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2770
+    },
+    {
+      "universe_size": 169,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2684
+    },
+    {
+      "universe_size": 170,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2838
+    },
+    {
+      "universe_size": 171,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2830
+    },
+    {
+      "universe_size": 172,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2742
+    },
+    {
+      "universe_size": 173,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2738
+    },
+    {
+      "universe_size": 174,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2736
+    },
+    {
+      "universe_size": 175,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 2968
+    },
+    {
+      "universe_size": 176,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2816
+    },
+    {
+      "universe_size": 177,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2778
+    },
+    {
+      "universe_size": 178,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2774
+    },
+    {
+      "universe_size": 179,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2978
+    },
+    {
+      "universe_size": 180,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2884
+    },
+    {
+      "universe_size": 181,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3042
+    },
+    {
+      "universe_size": 182,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 2866
+    },
+    {
+      "universe_size": 183,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2774
+    },
+    {
+      "universe_size": 184,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2932
+    },
+    {
+      "universe_size": 185,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2822
+    },
+    {
+      "universe_size": 186,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3058
+    },
+    {
+      "universe_size": 187,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2994
+    },
+    {
+      "universe_size": 188,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3256
+    },
+    {
+      "universe_size": 189,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2970
+    },
+    {
+      "universe_size": 190,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3172
+    },
+    {
+      "universe_size": 191,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3110
+    },
+    {
+      "universe_size": 192,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3232
+    },
+    {
+      "universe_size": 193,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3240
+    },
+    {
+      "universe_size": 194,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 2952
+    },
+    {
+      "universe_size": 195,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 3126
+    },
+    {
+      "universe_size": 196,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3322
+    },
+    {
+      "universe_size": 197,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3096
+    },
+    {
+      "universe_size": 198,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 3040
+    },
+    {
+      "universe_size": 199,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3096
+    },
+    {
+      "universe_size": 200,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3226
+    },
+    {
+      "universe_size": 201,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3472
+    },
+    {
+      "universe_size": 202,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3294
+    },
+    {
+      "universe_size": 203,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3318
+    },
+    {
+      "universe_size": 204,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3274
+    },
+    {
+      "universe_size": 205,
+      "num_subsets": 10,
+      "cover_size": 6,
+      "subset_evals": 60,
+      "element_ops": 3266
+    },
+    {
+      "universe_size": 206,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3260
+    },
+    {
+      "universe_size": 207,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3460
+    },
+    {
+      "universe_size": 208,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3350
+    },
+    {
+      "universe_size": 209,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3382
+    },
+    {
+      "universe_size": 210,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3334
+    },
+    {
+      "universe_size": 211,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3438
+    },
+    {
+      "universe_size": 212,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3482
+    },
+    {
+      "universe_size": 213,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3626
+    },
+    {
+      "universe_size": 214,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3394
+    },
+    {
+      "universe_size": 215,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3420
+    },
+    {
+      "universe_size": 216,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3480
+    },
+    {
+      "universe_size": 217,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3404
+    },
+    {
+      "universe_size": 218,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3664
+    },
+    {
+      "universe_size": 219,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3624
+    },
+    {
+      "universe_size": 220,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3574
+    },
+    {
+      "universe_size": 221,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3620
+    },
+    {
+      "universe_size": 222,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3692
+    },
+    {
+      "universe_size": 223,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3648
+    },
+    {
+      "universe_size": 224,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3776
+    },
+    {
+      "universe_size": 225,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3664
+    },
+    {
+      "universe_size": 226,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3672
+    },
+    {
+      "universe_size": 227,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3704
+    },
+    {
+      "universe_size": 228,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3698
+    },
+    {
+      "universe_size": 229,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3804
+    },
+    {
+      "universe_size": 230,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3662
+    },
+    {
+      "universe_size": 231,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3598
+    },
+    {
+      "universe_size": 232,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3668
+    },
+    {
+      "universe_size": 233,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3796
+    },
+    {
+      "universe_size": 234,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 3888
+    },
+    {
+      "universe_size": 235,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3820
+    },
+    {
+      "universe_size": 236,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3920
+    },
+    {
+      "universe_size": 237,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3676
+    },
+    {
+      "universe_size": 238,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3900
+    },
+    {
+      "universe_size": 239,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3758
+    },
+    {
+      "universe_size": 240,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3852
+    },
+    {
+      "universe_size": 241,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3920
+    },
+    {
+      "universe_size": 242,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3958
+    },
+    {
+      "universe_size": 243,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 3954
+    },
+    {
+      "universe_size": 244,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3910
+    },
+    {
+      "universe_size": 245,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4140
+    },
+    {
+      "universe_size": 246,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3984
+    },
+    {
+      "universe_size": 247,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 3890
+    },
+    {
+      "universe_size": 248,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4250
+    },
+    {
+      "universe_size": 249,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4224
+    },
+    {
+      "universe_size": 250,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4076
+    },
+    {
+      "universe_size": 251,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4298
+    },
+    {
+      "universe_size": 252,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4240
+    },
+    {
+      "universe_size": 253,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4034
+    },
+    {
+      "universe_size": 254,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4088
+    },
+    {
+      "universe_size": 255,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4040
+    },
+    {
+      "universe_size": 256,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4198
+    },
+    {
+      "universe_size": 257,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4194
+    },
+    {
+      "universe_size": 258,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4212
+    },
+    {
+      "universe_size": 259,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4088
+    },
+    {
+      "universe_size": 260,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4290
+    },
+    {
+      "universe_size": 261,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4400
+    },
+    {
+      "universe_size": 262,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4092
+    },
+    {
+      "universe_size": 263,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4276
+    },
+    {
+      "universe_size": 264,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4410
+    },
+    {
+      "universe_size": 265,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4324
+    },
+    {
+      "universe_size": 266,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4250
+    },
+    {
+      "universe_size": 267,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4344
+    },
+    {
+      "universe_size": 268,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4148
+    },
+    {
+      "universe_size": 269,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4130
+    },
+    {
+      "universe_size": 270,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4750
+    },
+    {
+      "universe_size": 271,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4322
+    },
+    {
+      "universe_size": 272,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4460
+    },
+    {
+      "universe_size": 273,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4288
+    },
+    {
+      "universe_size": 274,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4558
+    },
+    {
+      "universe_size": 275,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4516
+    },
+    {
+      "universe_size": 276,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4464
+    },
+    {
+      "universe_size": 277,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4628
+    },
+    {
+      "universe_size": 278,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4610
+    },
+    {
+      "universe_size": 279,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4346
+    },
+    {
+      "universe_size": 280,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 4764
+    },
+    {
+      "universe_size": 281,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4528
+    },
+    {
+      "universe_size": 282,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4540
+    },
+    {
+      "universe_size": 283,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4726
+    },
+    {
+      "universe_size": 284,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4778
+    },
+    {
+      "universe_size": 285,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4752
+    },
+    {
+      "universe_size": 286,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4570
+    },
+    {
+      "universe_size": 287,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4764
+    },
+    {
+      "universe_size": 288,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4742
+    },
+    {
+      "universe_size": 289,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4614
+    },
+    {
+      "universe_size": 290,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4752
+    },
+    {
+      "universe_size": 291,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4904
+    },
+    {
+      "universe_size": 292,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4832
+    },
+    {
+      "universe_size": 293,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4672
+    },
+    {
+      "universe_size": 294,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4944
+    },
+    {
+      "universe_size": 295,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4918
+    },
+    {
+      "universe_size": 296,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4786
+    },
+    {
+      "universe_size": 297,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4950
+    },
+    {
+      "universe_size": 298,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 4652
+    },
+    {
+      "universe_size": 299,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4874
+    },
+    {
+      "universe_size": 300,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4866
+    },
+    {
+      "universe_size": 301,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4802
+    },
+    {
+      "universe_size": 302,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5086
+    },
+    {
+      "universe_size": 303,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4942
+    },
+    {
+      "universe_size": 304,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 4978
+    },
+    {
+      "universe_size": 305,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5054
+    },
+    {
+      "universe_size": 306,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 4984
+    },
+    {
+      "universe_size": 307,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5156
+    },
+    {
+      "universe_size": 308,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5018
+    },
+    {
+      "universe_size": 309,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5072
+    },
+    {
+      "universe_size": 310,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5178
+    },
+    {
+      "universe_size": 311,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5048
+    },
+    {
+      "universe_size": 312,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5134
+    },
+    {
+      "universe_size": 313,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5042
+    },
+    {
+      "universe_size": 314,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5194
+    },
+    {
+      "universe_size": 315,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5336
+    },
+    {
+      "universe_size": 316,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5360
+    },
+    {
+      "universe_size": 317,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5162
+    },
+    {
+      "universe_size": 318,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5110
+    },
+    {
+      "universe_size": 319,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5398
+    },
+    {
+      "universe_size": 320,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5432
+    },
+    {
+      "universe_size": 321,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5182
+    },
+    {
+      "universe_size": 322,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5238
+    },
+    {
+      "universe_size": 323,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5412
+    },
+    {
+      "universe_size": 324,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5240
+    },
+    {
+      "universe_size": 325,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5342
+    },
+    {
+      "universe_size": 326,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5490
+    },
+    {
+      "universe_size": 327,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5214
+    },
+    {
+      "universe_size": 328,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5238
+    },
+    {
+      "universe_size": 329,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5378
+    },
+    {
+      "universe_size": 330,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5318
+    },
+    {
+      "universe_size": 331,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5184
+    },
+    {
+      "universe_size": 332,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5404
+    },
+    {
+      "universe_size": 333,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5556
+    },
+    {
+      "universe_size": 334,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5476
+    },
+    {
+      "universe_size": 335,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5538
+    },
+    {
+      "universe_size": 336,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5506
+    },
+    {
+      "universe_size": 337,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5490
+    },
+    {
+      "universe_size": 338,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5612
+    },
+    {
+      "universe_size": 339,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5570
+    },
+    {
+      "universe_size": 340,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5496
+    },
+    {
+      "universe_size": 341,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5762
+    },
+    {
+      "universe_size": 342,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5704
+    },
+    {
+      "universe_size": 343,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5698
+    },
+    {
+      "universe_size": 344,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5396
+    },
+    {
+      "universe_size": 345,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5592
+    },
+    {
+      "universe_size": 346,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 5726
+    },
+    {
+      "universe_size": 347,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5652
+    },
+    {
+      "universe_size": 348,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5682
+    },
+    {
+      "universe_size": 349,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5806
+    },
+    {
+      "universe_size": 350,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5886
+    },
+    {
+      "universe_size": 351,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5664
+    },
+    {
+      "universe_size": 352,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5922
+    },
+    {
+      "universe_size": 353,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5820
+    },
+    {
+      "universe_size": 354,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5634
+    },
+    {
+      "universe_size": 355,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6034
+    },
+    {
+      "universe_size": 356,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5890
+    },
+    {
+      "universe_size": 357,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5714
+    },
+    {
+      "universe_size": 358,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6132
+    },
+    {
+      "universe_size": 359,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 6058
+    },
+    {
+      "universe_size": 360,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5992
+    },
+    {
+      "universe_size": 361,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5778
+    },
+    {
+      "universe_size": 362,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5818
+    },
+    {
+      "universe_size": 363,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6010
+    },
+    {
+      "universe_size": 364,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6178
+    },
+    {
+      "universe_size": 365,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 5922
+    },
+    {
+      "universe_size": 366,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6078
+    },
+    {
+      "universe_size": 367,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6344
+    },
+    {
+      "universe_size": 368,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 5996
+    },
+    {
+      "universe_size": 369,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6078
+    },
+    {
+      "universe_size": 370,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6074
+    },
+    {
+      "universe_size": 371,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6078
+    },
+    {
+      "universe_size": 372,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6120
+    },
+    {
+      "universe_size": 373,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5966
+    },
+    {
+      "universe_size": 374,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 5994
+    },
+    {
+      "universe_size": 375,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 6140
+    },
+    {
+      "universe_size": 376,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6138
+    },
+    {
+      "universe_size": 377,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6188
+    },
+    {
+      "universe_size": 378,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6326
+    },
+    {
+      "universe_size": 379,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6158
+    },
+    {
+      "universe_size": 380,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6382
+    },
+    {
+      "universe_size": 381,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6274
+    },
+    {
+      "universe_size": 382,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6182
+    },
+    {
+      "universe_size": 383,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6280
+    },
+    {
+      "universe_size": 384,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6336
+    },
+    {
+      "universe_size": 385,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6230
+    },
+    {
+      "universe_size": 386,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6226
+    },
+    {
+      "universe_size": 387,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6424
+    },
+    {
+      "universe_size": 388,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6450
+    },
+    {
+      "universe_size": 389,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6272
+    },
+    {
+      "universe_size": 390,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6680
+    },
+    {
+      "universe_size": 391,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6596
+    },
+    {
+      "universe_size": 392,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6534
+    },
+    {
+      "universe_size": 393,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6544
+    },
+    {
+      "universe_size": 394,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6552
+    },
+    {
+      "universe_size": 395,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 6146
+    },
+    {
+      "universe_size": 396,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6390
+    },
+    {
+      "universe_size": 397,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6460
+    },
+    {
+      "universe_size": 398,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6488
+    },
+    {
+      "universe_size": 399,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6710
+    },
+    {
+      "universe_size": 400,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6778
+    },
+    {
+      "universe_size": 401,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6650
+    },
+    {
+      "universe_size": 402,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6728
+    },
+    {
+      "universe_size": 403,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6450
+    },
+    {
+      "universe_size": 404,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6750
+    },
+    {
+      "universe_size": 405,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6698
+    },
+    {
+      "universe_size": 406,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6628
+    },
+    {
+      "universe_size": 407,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6658
+    },
+    {
+      "universe_size": 408,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6754
+    },
+    {
+      "universe_size": 409,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6816
+    },
+    {
+      "universe_size": 410,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 6946
+    },
+    {
+      "universe_size": 411,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6780
+    },
+    {
+      "universe_size": 412,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 6856
+    },
+    {
+      "universe_size": 413,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6802
+    },
+    {
+      "universe_size": 414,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 7028
+    },
+    {
+      "universe_size": 415,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6792
+    },
+    {
+      "universe_size": 416,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6876
+    },
+    {
+      "universe_size": 417,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6946
+    },
+    {
+      "universe_size": 418,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7018
+    },
+    {
+      "universe_size": 419,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7112
+    },
+    {
+      "universe_size": 420,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 6860
+    },
+    {
+      "universe_size": 421,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 7088
+    },
+    {
+      "universe_size": 422,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7054
+    },
+    {
+      "universe_size": 423,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7022
+    },
+    {
+      "universe_size": 424,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7016
+    },
+    {
+      "universe_size": 425,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6974
+    },
+    {
+      "universe_size": 426,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 6978
+    },
+    {
+      "universe_size": 427,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7018
+    },
+    {
+      "universe_size": 428,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7090
+    },
+    {
+      "universe_size": 429,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7152
+    },
+    {
+      "universe_size": 430,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7258
+    },
+    {
+      "universe_size": 431,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7142
+    },
+    {
+      "universe_size": 432,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7290
+    },
+    {
+      "universe_size": 433,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7038
+    },
+    {
+      "universe_size": 434,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7242
+    },
+    {
+      "universe_size": 435,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7210
+    },
+    {
+      "universe_size": 436,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7416
+    },
+    {
+      "universe_size": 437,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7188
+    },
+    {
+      "universe_size": 438,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7196
+    },
+    {
+      "universe_size": 439,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7130
+    },
+    {
+      "universe_size": 440,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7430
+    },
+    {
+      "universe_size": 441,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7216
+    },
+    {
+      "universe_size": 442,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7396
+    },
+    {
+      "universe_size": 443,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7294
+    },
+    {
+      "universe_size": 444,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7370
+    },
+    {
+      "universe_size": 445,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 7200
+    },
+    {
+      "universe_size": 446,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7390
+    },
+    {
+      "universe_size": 447,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 7538
+    },
+    {
+      "universe_size": 448,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7504
+    },
+    {
+      "universe_size": 449,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7540
+    },
+    {
+      "universe_size": 450,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7502
+    },
+    {
+      "universe_size": 451,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7402
+    },
+    {
+      "universe_size": 452,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7682
+    },
+    {
+      "universe_size": 453,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7542
+    },
+    {
+      "universe_size": 454,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7642
+    },
+    {
+      "universe_size": 455,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7280
+    },
+    {
+      "universe_size": 456,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7568
+    },
+    {
+      "universe_size": 457,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7506
+    },
+    {
+      "universe_size": 458,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7674
+    },
+    {
+      "universe_size": 459,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7722
+    },
+    {
+      "universe_size": 460,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7950
+    },
+    {
+      "universe_size": 461,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7590
+    },
+    {
+      "universe_size": 462,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7620
+    },
+    {
+      "universe_size": 463,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7750
+    },
+    {
+      "universe_size": 464,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7534
+    },
+    {
+      "universe_size": 465,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7712
+    },
+    {
+      "universe_size": 466,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7718
+    },
+    {
+      "universe_size": 467,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7936
+    },
+    {
+      "universe_size": 468,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7854
+    },
+    {
+      "universe_size": 469,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7772
+    },
+    {
+      "universe_size": 470,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7814
+    },
+    {
+      "universe_size": 471,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7856
+    },
+    {
+      "universe_size": 472,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7920
+    },
+    {
+      "universe_size": 473,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7788
+    },
+    {
+      "universe_size": 474,
+      "num_subsets": 10,
+      "cover_size": 7,
+      "subset_evals": 70,
+      "element_ops": 7686
+    },
+    {
+      "universe_size": 475,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7686
+    },
+    {
+      "universe_size": 476,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8142
+    },
+    {
+      "universe_size": 477,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7852
+    },
+    {
+      "universe_size": 478,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8198
+    },
+    {
+      "universe_size": 479,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8140
+    },
+    {
+      "universe_size": 480,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8248
+    },
+    {
+      "universe_size": 481,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7728
+    },
+    {
+      "universe_size": 482,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8182
+    },
+    {
+      "universe_size": 483,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7966
+    },
+    {
+      "universe_size": 484,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7920
+    },
+    {
+      "universe_size": 485,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 7998
+    },
+    {
+      "universe_size": 486,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 7818
+    },
+    {
+      "universe_size": 487,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8100
+    },
+    {
+      "universe_size": 488,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8328
+    },
+    {
+      "universe_size": 489,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8128
+    },
+    {
+      "universe_size": 490,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8042
+    },
+    {
+      "universe_size": 491,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8270
+    },
+    {
+      "universe_size": 492,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8046
+    },
+    {
+      "universe_size": 493,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8330
+    },
+    {
+      "universe_size": 494,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8506
+    },
+    {
+      "universe_size": 495,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8256
+    },
+    {
+      "universe_size": 496,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8220
+    },
+    {
+      "universe_size": 497,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8330
+    },
+    {
+      "universe_size": 498,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8254
+    },
+    {
+      "universe_size": 499,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8416
+    },
+    {
+      "universe_size": 500,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8378
+    },
+    {
+      "universe_size": 501,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8258
+    },
+    {
+      "universe_size": 502,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8322
+    },
+    {
+      "universe_size": 503,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8366
+    },
+    {
+      "universe_size": 504,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8494
+    },
+    {
+      "universe_size": 505,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8318
+    },
+    {
+      "universe_size": 506,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8454
+    },
+    {
+      "universe_size": 507,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8296
+    },
+    {
+      "universe_size": 508,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8326
+    },
+    {
+      "universe_size": 509,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8462
+    },
+    {
+      "universe_size": 510,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8540
+    },
+    {
+      "universe_size": 511,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8562
+    },
+    {
+      "universe_size": 512,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8800
+    },
+    {
+      "universe_size": 513,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8754
+    },
+    {
+      "universe_size": 514,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8604
+    },
+    {
+      "universe_size": 515,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8616
+    },
+    {
+      "universe_size": 516,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8540
+    },
+    {
+      "universe_size": 517,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8326
+    },
+    {
+      "universe_size": 518,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8602
+    },
+    {
+      "universe_size": 519,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8464
+    },
+    {
+      "universe_size": 520,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8630
+    },
+    {
+      "universe_size": 521,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8970
+    },
+    {
+      "universe_size": 522,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8780
+    },
+    {
+      "universe_size": 523,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8854
+    },
+    {
+      "universe_size": 524,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8636
+    },
+    {
+      "universe_size": 525,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8780
+    },
+    {
+      "universe_size": 526,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8702
+    },
+    {
+      "universe_size": 527,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8748
+    },
+    {
+      "universe_size": 528,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8830
+    },
+    {
+      "universe_size": 529,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8664
+    },
+    {
+      "universe_size": 530,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8902
+    },
+    {
+      "universe_size": 531,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8784
+    },
+    {
+      "universe_size": 532,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8784
+    },
+    {
+      "universe_size": 533,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9296
+    },
+    {
+      "universe_size": 534,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9188
+    },
+    {
+      "universe_size": 535,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8914
+    },
+    {
+      "universe_size": 536,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9110
+    },
+    {
+      "universe_size": 537,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9176
+    },
+    {
+      "universe_size": 538,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 8880
+    },
+    {
+      "universe_size": 539,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9082
+    },
+    {
+      "universe_size": 540,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8914
+    },
+    {
+      "universe_size": 541,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 8960
+    },
+    {
+      "universe_size": 542,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9084
+    },
+    {
+      "universe_size": 543,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9156
+    },
+    {
+      "universe_size": 544,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9028
+    },
+    {
+      "universe_size": 545,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9148
+    },
+    {
+      "universe_size": 546,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9328
+    },
+    {
+      "universe_size": 547,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9124
+    },
+    {
+      "universe_size": 548,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9120
+    },
+    {
+      "universe_size": 549,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8914
+    },
+    {
+      "universe_size": 550,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9232
+    },
+    {
+      "universe_size": 551,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9092
+    },
+    {
+      "universe_size": 552,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9040
+    },
+    {
+      "universe_size": 553,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 8942
+    },
+    {
+      "universe_size": 554,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9162
+    },
+    {
+      "universe_size": 555,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9510
+    },
+    {
+      "universe_size": 556,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9360
+    },
+    {
+      "universe_size": 557,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9320
+    },
+    {
+      "universe_size": 558,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9328
+    },
+    {
+      "universe_size": 559,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9316
+    },
+    {
+      "universe_size": 560,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9336
+    },
+    {
+      "universe_size": 561,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9522
+    },
+    {
+      "universe_size": 562,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9436
+    },
+    {
+      "universe_size": 563,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9314
+    },
+    {
+      "universe_size": 564,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9532
+    },
+    {
+      "universe_size": 565,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9436
+    },
+    {
+      "universe_size": 566,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9414
+    },
+    {
+      "universe_size": 567,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9414
+    },
+    {
+      "universe_size": 568,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9674
+    },
+    {
+      "universe_size": 569,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9702
+    },
+    {
+      "universe_size": 570,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9458
+    },
+    {
+      "universe_size": 571,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9286
+    },
+    {
+      "universe_size": 572,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9350
+    },
+    {
+      "universe_size": 573,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9550
+    },
+    {
+      "universe_size": 574,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9774
+    },
+    {
+      "universe_size": 575,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9522
+    },
+    {
+      "universe_size": 576,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9664
+    },
+    {
+      "universe_size": 577,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9416
+    },
+    {
+      "universe_size": 578,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9466
+    },
+    {
+      "universe_size": 579,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9522
+    },
+    {
+      "universe_size": 580,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9824
+    },
+    {
+      "universe_size": 581,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9896
+    },
+    {
+      "universe_size": 582,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9742
+    },
+    {
+      "universe_size": 583,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9774
+    },
+    {
+      "universe_size": 584,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9794
+    },
+    {
+      "universe_size": 585,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9574
+    },
+    {
+      "universe_size": 586,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9780
+    },
+    {
+      "universe_size": 587,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9638
+    },
+    {
+      "universe_size": 588,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9950
+    },
+    {
+      "universe_size": 589,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10000
+    },
+    {
+      "universe_size": 590,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9844
+    },
+    {
+      "universe_size": 591,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9996
+    },
+    {
+      "universe_size": 592,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9816
+    },
+    {
+      "universe_size": 593,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9684
+    },
+    {
+      "universe_size": 594,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 9898
+    },
+    {
+      "universe_size": 595,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9952
+    },
+    {
+      "universe_size": 596,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10156
+    },
+    {
+      "universe_size": 597,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9826
+    },
+    {
+      "universe_size": 598,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10060
+    },
+    {
+      "universe_size": 599,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10020
+    },
+    {
+      "universe_size": 600,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10002
+    },
+    {
+      "universe_size": 601,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10100
+    },
+    {
+      "universe_size": 602,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10116
+    },
+    {
+      "universe_size": 603,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9882
+    },
+    {
+      "universe_size": 604,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10594
+    },
+    {
+      "universe_size": 605,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10066
+    },
+    {
+      "universe_size": 606,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9886
+    },
+    {
+      "universe_size": 607,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10248
+    },
+    {
+      "universe_size": 608,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10262
+    },
+    {
+      "universe_size": 609,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10322
+    },
+    {
+      "universe_size": 610,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 9900
+    },
+    {
+      "universe_size": 611,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10376
+    },
+    {
+      "universe_size": 612,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10194
+    },
+    {
+      "universe_size": 613,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10320
+    },
+    {
+      "universe_size": 614,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10486
+    },
+    {
+      "universe_size": 615,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10288
+    },
+    {
+      "universe_size": 616,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 9978
+    },
+    {
+      "universe_size": 617,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10400
+    },
+    {
+      "universe_size": 618,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10408
+    },
+    {
+      "universe_size": 619,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10226
+    },
+    {
+      "universe_size": 620,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10396
+    },
+    {
+      "universe_size": 621,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10524
+    },
+    {
+      "universe_size": 622,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10534
+    },
+    {
+      "universe_size": 623,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10572
+    },
+    {
+      "universe_size": 624,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10640
+    },
+    {
+      "universe_size": 625,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10204
+    },
+    {
+      "universe_size": 626,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10508
+    },
+    {
+      "universe_size": 627,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10524
+    },
+    {
+      "universe_size": 628,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10666
+    },
+    {
+      "universe_size": 629,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10540
+    },
+    {
+      "universe_size": 630,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10392
+    },
+    {
+      "universe_size": 631,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10648
+    },
+    {
+      "universe_size": 632,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10596
+    },
+    {
+      "universe_size": 633,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10604
+    },
+    {
+      "universe_size": 634,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10960
+    },
+    {
+      "universe_size": 635,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10788
+    },
+    {
+      "universe_size": 636,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10670
+    },
+    {
+      "universe_size": 637,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10996
+    },
+    {
+      "universe_size": 638,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10558
+    },
+    {
+      "universe_size": 639,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10660
+    },
+    {
+      "universe_size": 640,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10600
+    },
+    {
+      "universe_size": 641,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10580
+    },
+    {
+      "universe_size": 642,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10896
+    },
+    {
+      "universe_size": 643,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10810
+    },
+    {
+      "universe_size": 644,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10760
+    },
+    {
+      "universe_size": 645,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10924
+    },
+    {
+      "universe_size": 646,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10886
+    },
+    {
+      "universe_size": 647,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 10656
+    },
+    {
+      "universe_size": 648,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11016
+    },
+    {
+      "universe_size": 649,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11030
+    },
+    {
+      "universe_size": 650,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10770
+    },
+    {
+      "universe_size": 651,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11232
+    },
+    {
+      "universe_size": 652,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11108
+    },
+    {
+      "universe_size": 653,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11372
+    },
+    {
+      "universe_size": 654,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10888
+    },
+    {
+      "universe_size": 655,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10646
+    },
+    {
+      "universe_size": 656,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11088
+    },
+    {
+      "universe_size": 657,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11124
+    },
+    {
+      "universe_size": 658,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10996
+    },
+    {
+      "universe_size": 659,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11052
+    },
+    {
+      "universe_size": 660,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11220
+    },
+    {
+      "universe_size": 661,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 10912
+    },
+    {
+      "universe_size": 662,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10908
+    },
+    {
+      "universe_size": 663,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11376
+    },
+    {
+      "universe_size": 664,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11176
+    },
+    {
+      "universe_size": 665,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11238
+    },
+    {
+      "universe_size": 666,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11152
+    },
+    {
+      "universe_size": 667,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 10764
+    },
+    {
+      "universe_size": 668,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11082
+    },
+    {
+      "universe_size": 669,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11344
+    },
+    {
+      "universe_size": 670,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11264
+    },
+    {
+      "universe_size": 671,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11186
+    },
+    {
+      "universe_size": 672,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11150
+    },
+    {
+      "universe_size": 673,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11224
+    },
+    {
+      "universe_size": 674,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11376
+    },
+    {
+      "universe_size": 675,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11450
+    },
+    {
+      "universe_size": 676,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11394
+    },
+    {
+      "universe_size": 677,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11278
+    },
+    {
+      "universe_size": 678,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11094
+    },
+    {
+      "universe_size": 679,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11346
+    },
+    {
+      "universe_size": 680,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11606
+    },
+    {
+      "universe_size": 681,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11474
+    },
+    {
+      "universe_size": 682,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11716
+    },
+    {
+      "universe_size": 683,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11214
+    },
+    {
+      "universe_size": 684,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11640
+    },
+    {
+      "universe_size": 685,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11700
+    },
+    {
+      "universe_size": 686,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11460
+    },
+    {
+      "universe_size": 687,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11706
+    },
+    {
+      "universe_size": 688,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11720
+    },
+    {
+      "universe_size": 689,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11312
+    },
+    {
+      "universe_size": 690,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11726
+    },
+    {
+      "universe_size": 691,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11706
+    },
+    {
+      "universe_size": 692,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11568
+    },
+    {
+      "universe_size": 693,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11320
+    },
+    {
+      "universe_size": 694,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11788
+    },
+    {
+      "universe_size": 695,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11850
+    },
+    {
+      "universe_size": 696,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11638
+    },
+    {
+      "universe_size": 697,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12018
+    },
+    {
+      "universe_size": 698,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11530
+    },
+    {
+      "universe_size": 699,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11574
+    },
+    {
+      "universe_size": 700,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11390
+    },
+    {
+      "universe_size": 701,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11778
+    },
+    {
+      "universe_size": 702,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12022
+    },
+    {
+      "universe_size": 703,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11384
+    },
+    {
+      "universe_size": 704,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11708
+    },
+    {
+      "universe_size": 705,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12042
+    },
+    {
+      "universe_size": 706,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11948
+    },
+    {
+      "universe_size": 707,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11926
+    },
+    {
+      "universe_size": 708,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12040
+    },
+    {
+      "universe_size": 709,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11898
+    },
+    {
+      "universe_size": 710,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12044
+    },
+    {
+      "universe_size": 711,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11868
+    },
+    {
+      "universe_size": 712,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12010
+    },
+    {
+      "universe_size": 713,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11818
+    },
+    {
+      "universe_size": 714,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11960
+    },
+    {
+      "universe_size": 715,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12186
+    },
+    {
+      "universe_size": 716,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12276
+    },
+    {
+      "universe_size": 717,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12088
+    },
+    {
+      "universe_size": 718,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11850
+    },
+    {
+      "universe_size": 719,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12188
+    },
+    {
+      "universe_size": 720,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11958
+    },
+    {
+      "universe_size": 721,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12154
+    },
+    {
+      "universe_size": 722,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12264
+    },
+    {
+      "universe_size": 723,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12348
+    },
+    {
+      "universe_size": 724,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12266
+    },
+    {
+      "universe_size": 725,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12234
+    },
+    {
+      "universe_size": 726,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12422
+    },
+    {
+      "universe_size": 727,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12178
+    },
+    {
+      "universe_size": 728,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 11984
+    },
+    {
+      "universe_size": 729,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12194
+    },
+    {
+      "universe_size": 730,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12534
+    },
+    {
+      "universe_size": 731,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12118
+    },
+    {
+      "universe_size": 732,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 11864
+    },
+    {
+      "universe_size": 733,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12430
+    },
+    {
+      "universe_size": 734,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12332
+    },
+    {
+      "universe_size": 735,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12416
+    },
+    {
+      "universe_size": 736,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12348
+    },
+    {
+      "universe_size": 737,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12636
+    },
+    {
+      "universe_size": 738,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12484
+    },
+    {
+      "universe_size": 739,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12540
+    },
+    {
+      "universe_size": 740,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12658
+    },
+    {
+      "universe_size": 741,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 11988
+    },
+    {
+      "universe_size": 742,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12506
+    },
+    {
+      "universe_size": 743,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12714
+    },
+    {
+      "universe_size": 744,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12826
+    },
+    {
+      "universe_size": 745,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12634
+    },
+    {
+      "universe_size": 746,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12666
+    },
+    {
+      "universe_size": 747,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12388
+    },
+    {
+      "universe_size": 748,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12444
+    },
+    {
+      "universe_size": 749,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12330
+    },
+    {
+      "universe_size": 750,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12372
+    },
+    {
+      "universe_size": 751,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12600
+    },
+    {
+      "universe_size": 752,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12846
+    },
+    {
+      "universe_size": 753,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12828
+    },
+    {
+      "universe_size": 754,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12566
+    },
+    {
+      "universe_size": 755,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12690
+    },
+    {
+      "universe_size": 756,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12788
+    },
+    {
+      "universe_size": 757,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12774
+    },
+    {
+      "universe_size": 758,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12778
+    },
+    {
+      "universe_size": 759,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13074
+    },
+    {
+      "universe_size": 760,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13000
+    },
+    {
+      "universe_size": 761,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12686
+    },
+    {
+      "universe_size": 762,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12782
+    },
+    {
+      "universe_size": 763,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 12526
+    },
+    {
+      "universe_size": 764,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12830
+    },
+    {
+      "universe_size": 765,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12660
+    },
+    {
+      "universe_size": 766,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13012
+    },
+    {
+      "universe_size": 767,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13054
+    },
+    {
+      "universe_size": 768,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12652
+    },
+    {
+      "universe_size": 769,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12620
+    },
+    {
+      "universe_size": 770,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12984
+    },
+    {
+      "universe_size": 771,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12926
+    },
+    {
+      "universe_size": 772,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13256
+    },
+    {
+      "universe_size": 773,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13024
+    },
+    {
+      "universe_size": 774,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12974
+    },
+    {
+      "universe_size": 775,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13134
+    },
+    {
+      "universe_size": 776,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12988
+    },
+    {
+      "universe_size": 777,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 12938
+    },
+    {
+      "universe_size": 778,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12804
+    },
+    {
+      "universe_size": 779,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13072
+    },
+    {
+      "universe_size": 780,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13358
+    },
+    {
+      "universe_size": 781,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13132
+    },
+    {
+      "universe_size": 782,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13024
+    },
+    {
+      "universe_size": 783,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12828
+    },
+    {
+      "universe_size": 784,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 12994
+    },
+    {
+      "universe_size": 785,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 13208
+    },
+    {
+      "universe_size": 786,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 13068
+    },
+    {
+      "universe_size": 787,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13260
+    },
+    {
+      "universe_size": 788,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13206
+    },
+    {
+      "universe_size": 789,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13120
+    },
+    {
+      "universe_size": 790,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13294
+    },
+    {
+      "universe_size": 791,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13526
+    },
+    {
+      "universe_size": 792,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13314
+    },
+    {
+      "universe_size": 793,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13298
+    },
+    {
+      "universe_size": 794,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13696
+    },
+    {
+      "universe_size": 795,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 13066
+    },
+    {
+      "universe_size": 796,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13480
+    },
+    {
+      "universe_size": 797,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13642
+    },
+    {
+      "universe_size": 798,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13298
+    },
+    {
+      "universe_size": 799,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13422
+    },
+    {
+      "universe_size": 800,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13548
+    },
+    {
+      "universe_size": 801,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13608
+    },
+    {
+      "universe_size": 802,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13772
+    },
+    {
+      "universe_size": 803,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13338
+    },
+    {
+      "universe_size": 804,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13478
+    },
+    {
+      "universe_size": 805,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13552
+    },
+    {
+      "universe_size": 806,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13786
+    },
+    {
+      "universe_size": 807,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13820
+    },
+    {
+      "universe_size": 808,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13450
+    },
+    {
+      "universe_size": 809,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13590
+    },
+    {
+      "universe_size": 810,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13644
+    },
+    {
+      "universe_size": 811,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13636
+    },
+    {
+      "universe_size": 812,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13652
+    },
+    {
+      "universe_size": 813,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13746
+    },
+    {
+      "universe_size": 814,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13640
+    },
+    {
+      "universe_size": 815,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13668
+    },
+    {
+      "universe_size": 816,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13886
+    },
+    {
+      "universe_size": 817,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13650
+    },
+    {
+      "universe_size": 818,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13580
+    },
+    {
+      "universe_size": 819,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 13780
+    },
+    {
+      "universe_size": 820,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13732
+    },
+    {
+      "universe_size": 821,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 13570
+    },
+    {
+      "universe_size": 822,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13788
+    },
+    {
+      "universe_size": 823,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13736
+    },
+    {
+      "universe_size": 824,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14112
+    },
+    {
+      "universe_size": 825,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13976
+    },
+    {
+      "universe_size": 826,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13842
+    },
+    {
+      "universe_size": 827,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13754
+    },
+    {
+      "universe_size": 828,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13824
+    },
+    {
+      "universe_size": 829,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14048
+    },
+    {
+      "universe_size": 830,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13768
+    },
+    {
+      "universe_size": 831,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14526
+    },
+    {
+      "universe_size": 832,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14226
+    },
+    {
+      "universe_size": 833,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14302
+    },
+    {
+      "universe_size": 834,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 13978
+    },
+    {
+      "universe_size": 835,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13874
+    },
+    {
+      "universe_size": 836,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13906
+    },
+    {
+      "universe_size": 837,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13788
+    },
+    {
+      "universe_size": 838,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14032
+    },
+    {
+      "universe_size": 839,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14200
+    },
+    {
+      "universe_size": 840,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14262
+    },
+    {
+      "universe_size": 841,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14398
+    },
+    {
+      "universe_size": 842,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14260
+    },
+    {
+      "universe_size": 843,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14228
+    },
+    {
+      "universe_size": 844,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14316
+    },
+    {
+      "universe_size": 845,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14246
+    },
+    {
+      "universe_size": 846,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14584
+    },
+    {
+      "universe_size": 847,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14260
+    },
+    {
+      "universe_size": 848,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14428
+    },
+    {
+      "universe_size": 849,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14160
+    },
+    {
+      "universe_size": 850,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14106
+    },
+    {
+      "universe_size": 851,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14126
+    },
+    {
+      "universe_size": 852,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14446
+    },
+    {
+      "universe_size": 853,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 13872
+    },
+    {
+      "universe_size": 854,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14608
+    },
+    {
+      "universe_size": 855,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14264
+    },
+    {
+      "universe_size": 856,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14292
+    },
+    {
+      "universe_size": 857,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14640
+    },
+    {
+      "universe_size": 858,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14306
+    },
+    {
+      "universe_size": 859,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14712
+    },
+    {
+      "universe_size": 860,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14152
+    },
+    {
+      "universe_size": 861,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14640
+    },
+    {
+      "universe_size": 862,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14416
+    },
+    {
+      "universe_size": 863,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14792
+    },
+    {
+      "universe_size": 864,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14376
+    },
+    {
+      "universe_size": 865,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14842
+    },
+    {
+      "universe_size": 866,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14610
+    },
+    {
+      "universe_size": 867,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14612
+    },
+    {
+      "universe_size": 868,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14700
+    },
+    {
+      "universe_size": 869,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14400
+    },
+    {
+      "universe_size": 870,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14690
+    },
+    {
+      "universe_size": 871,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14844
+    },
+    {
+      "universe_size": 872,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14878
+    },
+    {
+      "universe_size": 873,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14886
+    },
+    {
+      "universe_size": 874,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14650
+    },
+    {
+      "universe_size": 875,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14478
+    },
+    {
+      "universe_size": 876,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15144
+    },
+    {
+      "universe_size": 877,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14636
+    },
+    {
+      "universe_size": 878,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14944
+    },
+    {
+      "universe_size": 879,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14944
+    },
+    {
+      "universe_size": 880,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14722
+    },
+    {
+      "universe_size": 881,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14746
+    },
+    {
+      "universe_size": 882,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14862
+    },
+    {
+      "universe_size": 883,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14836
+    },
+    {
+      "universe_size": 884,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15114
+    },
+    {
+      "universe_size": 885,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15022
+    },
+    {
+      "universe_size": 886,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14746
+    },
+    {
+      "universe_size": 887,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15004
+    },
+    {
+      "universe_size": 888,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14958
+    },
+    {
+      "universe_size": 889,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 14670
+    },
+    {
+      "universe_size": 890,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14960
+    },
+    {
+      "universe_size": 891,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 14936
+    },
+    {
+      "universe_size": 892,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15134
+    },
+    {
+      "universe_size": 893,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14978
+    },
+    {
+      "universe_size": 894,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 14924
+    },
+    {
+      "universe_size": 895,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15200
+    },
+    {
+      "universe_size": 896,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15312
+    },
+    {
+      "universe_size": 897,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15064
+    },
+    {
+      "universe_size": 898,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15138
+    },
+    {
+      "universe_size": 899,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15142
+    },
+    {
+      "universe_size": 900,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15198
+    },
+    {
+      "universe_size": 901,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15440
+    },
+    {
+      "universe_size": 902,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15122
+    },
+    {
+      "universe_size": 903,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15556
+    },
+    {
+      "universe_size": 904,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15658
+    },
+    {
+      "universe_size": 905,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15224
+    },
+    {
+      "universe_size": 906,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15150
+    },
+    {
+      "universe_size": 907,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15280
+    },
+    {
+      "universe_size": 908,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15414
+    },
+    {
+      "universe_size": 909,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15482
+    },
+    {
+      "universe_size": 910,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15340
+    },
+    {
+      "universe_size": 911,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15266
+    },
+    {
+      "universe_size": 912,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 15428
+    },
+    {
+      "universe_size": 913,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15462
+    },
+    {
+      "universe_size": 914,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15410
+    },
+    {
+      "universe_size": 915,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 15584
+    },
+    {
+      "universe_size": 916,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15778
+    },
+    {
+      "universe_size": 917,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15328
+    },
+    {
+      "universe_size": 918,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 15546
+    },
+    {
+      "universe_size": 919,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15748
+    },
+    {
+      "universe_size": 920,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15490
+    },
+    {
+      "universe_size": 921,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15468
+    },
+    {
+      "universe_size": 922,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15920
+    },
+    {
+      "universe_size": 923,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15350
+    },
+    {
+      "universe_size": 924,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15536
+    },
+    {
+      "universe_size": 925,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15436
+    },
+    {
+      "universe_size": 926,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16050
+    },
+    {
+      "universe_size": 927,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15806
+    },
+    {
+      "universe_size": 928,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15588
+    },
+    {
+      "universe_size": 929,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15716
+    },
+    {
+      "universe_size": 930,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15688
+    },
+    {
+      "universe_size": 931,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15630
+    },
+    {
+      "universe_size": 932,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15864
+    },
+    {
+      "universe_size": 933,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15894
+    },
+    {
+      "universe_size": 934,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15784
+    },
+    {
+      "universe_size": 935,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16028
+    },
+    {
+      "universe_size": 936,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15836
+    },
+    {
+      "universe_size": 937,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16224
+    },
+    {
+      "universe_size": 938,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 15698
+    },
+    {
+      "universe_size": 939,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15818
+    },
+    {
+      "universe_size": 940,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15686
+    },
+    {
+      "universe_size": 941,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16028
+    },
+    {
+      "universe_size": 942,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16198
+    },
+    {
+      "universe_size": 943,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16140
+    },
+    {
+      "universe_size": 944,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15862
+    },
+    {
+      "universe_size": 945,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16130
+    },
+    {
+      "universe_size": 946,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16240
+    },
+    {
+      "universe_size": 947,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15996
+    },
+    {
+      "universe_size": 948,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16136
+    },
+    {
+      "universe_size": 949,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16276
+    },
+    {
+      "universe_size": 950,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16122
+    },
+    {
+      "universe_size": 951,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16212
+    },
+    {
+      "universe_size": 952,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16726
+    },
+    {
+      "universe_size": 953,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16286
+    },
+    {
+      "universe_size": 954,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16404
+    },
+    {
+      "universe_size": 955,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16074
+    },
+    {
+      "universe_size": 956,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16228
+    },
+    {
+      "universe_size": 957,
+      "num_subsets": 10,
+      "cover_size": 8,
+      "subset_evals": 80,
+      "element_ops": 15750
+    },
+    {
+      "universe_size": 958,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16276
+    },
+    {
+      "universe_size": 959,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16116
+    },
+    {
+      "universe_size": 960,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16880
+    },
+    {
+      "universe_size": 961,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 15918
+    },
+    {
+      "universe_size": 962,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16326
+    },
+    {
+      "universe_size": 963,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16092
+    },
+    {
+      "universe_size": 964,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16664
+    },
+    {
+      "universe_size": 965,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16364
+    },
+    {
+      "universe_size": 966,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16232
+    },
+    {
+      "universe_size": 967,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 15928
+    },
+    {
+      "universe_size": 968,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16470
+    },
+    {
+      "universe_size": 969,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16282
+    },
+    {
+      "universe_size": 970,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16822
+    },
+    {
+      "universe_size": 971,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16576
+    },
+    {
+      "universe_size": 972,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16610
+    },
+    {
+      "universe_size": 973,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16532
+    },
+    {
+      "universe_size": 974,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16672
+    },
+    {
+      "universe_size": 975,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16526
+    },
+    {
+      "universe_size": 976,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16588
+    },
+    {
+      "universe_size": 977,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16256
+    },
+    {
+      "universe_size": 978,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16610
+    },
+    {
+      "universe_size": 979,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16586
+    },
+    {
+      "universe_size": 980,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16750
+    },
+    {
+      "universe_size": 981,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16622
+    },
+    {
+      "universe_size": 982,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16774
+    },
+    {
+      "universe_size": 983,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16554
+    },
+    {
+      "universe_size": 984,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16458
+    },
+    {
+      "universe_size": 985,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16530
+    },
+    {
+      "universe_size": 986,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16678
+    },
+    {
+      "universe_size": 987,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16790
+    },
+    {
+      "universe_size": 988,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16592
+    },
+    {
+      "universe_size": 989,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16846
+    },
+    {
+      "universe_size": 990,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16500
+    },
+    {
+      "universe_size": 991,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16668
+    },
+    {
+      "universe_size": 992,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16770
+    },
+    {
+      "universe_size": 993,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16558
+    },
+    {
+      "universe_size": 994,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 16846
+    },
+    {
+      "universe_size": 995,
+      "num_subsets": 10,
+      "cover_size": 10,
+      "subset_evals": 100,
+      "element_ops": 17020
+    },
+    {
+      "universe_size": 996,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16942
+    },
+    {
+      "universe_size": 997,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 17096
+    },
+    {
+      "universe_size": 998,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16974
+    },
+    {
+      "universe_size": 999,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 17064
+    },
+    {
+      "universe_size": 1000,
+      "num_subsets": 10,
+      "cover_size": 9,
+      "subset_evals": 90,
+      "element_ops": 16732
+    }
+  ]
+}
